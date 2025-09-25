@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985721319981",
+    "project_id": "findme-14ed2",
+    "storage_bucket": "findme-14ed2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985721319981:android:ec7e8a04f53e7208e87ea4",
+        "android_client_info": {
+          "package_name": "com.findme.findme_programmazione_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxwxUmS9cte2b6J_jkgbIkiGozy1ohTTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
